@@ -7,6 +7,8 @@ module FancyDance
 
 
   module ClassMethods
+    def metadata
 
+    end
   end
 end
